@@ -1,0 +1,9 @@
+# Core dependencies for data handling and calculations
+numpy==1.26.4  # For numerical operations, arrays, and metric computations
+pandas==2.2.3  # For DataFrame manipulation, CSV loading, and date-based filtering
+
+# Required for neural network training and integration
+tensorflow==2.17.0  # For building/training NN models with custom loss and attention layers
+scikit-learn==1.5.2  # For data preprocessing, splitting, and imbalance handling
+
+
