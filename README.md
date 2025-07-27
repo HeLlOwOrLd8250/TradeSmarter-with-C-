@@ -1,4 +1,4 @@
-AI-Powered Trading Bot for MSFT
+Trade Smarter SOC'25 by Apoorva Ansh (22b2407)
 This project implements a sophisticated trading bot that leverages a custom-built neural network and a suite of technical indicators to analyze Microsoft (MSFT) stock data. The core of the project is a C++ engine for high-speed feature calculation and a Python-based deep learning model for generating trading signals.
 
 Features ✨
